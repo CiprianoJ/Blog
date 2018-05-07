@@ -1,6 +1,8 @@
 /* ------------------------------------------------------------ */
 /* imports and utilities */
 
+<link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
+
 /* 3rd-party CSS files */
 @import 'vendor/h5bp-head.css';
 @import 'vendor/normalize.css';
@@ -27,10 +29,10 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 /* start project-specifc styles below this line */
 
 body {
-	font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: font-family: 'Crimson Text', serif;
 	font-size: 16px;
 	line-height: 1.5em;
-	color: #222;
+	color: #000000;
 }
 
 /*	Generally, you will only want one container element in
@@ -48,4 +50,6 @@ body {
 	padding: 2em;
 	border: 5px solid #eee;
 }
+
+	
 
