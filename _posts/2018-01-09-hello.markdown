@@ -1,8 +1,14 @@
 ---
-title: "Hello"
-description: A starter site
+"Hello"
+---
+Welcome to my blog!
 
-#Hello
+These are some cool blogs that focus on webdesign. 
+
+*[Smashing Magazine](https://www.smashingmagazine.com/)
+*[Design Instruct](https://www.webpagefx.com/blog/web-design/)
+*[Inspired Magazine](https://inspiredm.com/)
+*[Material Design] (http://materialdesignblog.com/)
 
 
 
