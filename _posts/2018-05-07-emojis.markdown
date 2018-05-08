@@ -1,5 +1,5 @@
 ---
-Emojis!
+title: Emojis!
 ---
 :smile:
 :sleeping:
