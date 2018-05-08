@@ -1,5 +1,5 @@
 ---
-Killmonger
+title: Killmonger
 ---
 This is an article about the antagonist in the new Marvel movie *Black Panther*. It's a great article that gives you a different
 perspective.
