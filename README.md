@@ -3,3 +3,7 @@
 hello@imaginaryterrain.com
 
 [Students: edit this file!]
+
+
+
+![octopus](images/octopus.jpg)
