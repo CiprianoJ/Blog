@@ -1,5 +1,5 @@
 ---
-Film Deconstruction
+title: Film Deconstruction
 ---
 I love watching movies it's the best pass time. I decided to look at two films and deconsruct the scenes. The two films that I
 picked are [Breakfast at Tiffany’s directed by Blake Edwards](https://www.youtube.com/watch?v=52kC2KKpUT0&index=2&list=PLuoTtPxIOh1P-xJ-lcjxZOE2MKrI6P0lM)
