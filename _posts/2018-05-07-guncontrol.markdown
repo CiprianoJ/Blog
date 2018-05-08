@@ -1,5 +1,5 @@
 ---
-Gun Control 
+title: Gun Control 
 ---
 The debate surrounding gun control has intensified in recent years. After numerous mass shootings people are looking to the 
 future, and The March for Our Lives event is a perfect indicator of where it's heading. Student activists from Marjory Stoneman Douglas
