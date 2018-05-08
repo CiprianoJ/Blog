@@ -1,5 +1,5 @@
 ---
-Cartoons
+title: Cartoons
 ---
 *The New Yorker* has some of my favorite cartoons. They're clever. 
 [The New Yorker Cartoons](https://www.newyorker.com/cartoons)
