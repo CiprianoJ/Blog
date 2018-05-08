@@ -1,5 +1,5 @@
 ---
-AIGA Eye on Design
+title: AIGA Eye on Design
 ---
 A cool website that captivates the viewer.  
 [AIGA Eye on Design](http://eyeondesign.aiga.org)
