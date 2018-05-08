@@ -1,9 +1,5 @@
 ---
-title: "AIGA Eye on Design"
-description: "AIGA's design blog"
+AIGA Eye on Design
 ---
-
-AIGA Eye on Design 
-http://eyeonedesign.aiga.org
-
-[AIGA Eye on Design] (http://eyeondesign.aiga.org)
+A cool website that captivates the viewer.  
+[AIGA Eye on Design](http://eyeondesign.aiga.org)
