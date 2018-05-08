@@ -1,5 +1,5 @@
-2018-03-26-xoxo.markdown
 ---
-title: XOXO Fest
+XOXO Fest
 ---
+An interesting artist convetion
 [this is xoxo](https://xoxofest.com/)
