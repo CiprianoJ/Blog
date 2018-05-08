@@ -1,44 +1,18 @@
-<!DOCTYPE html>
-<html>
-<head>
+---
+layout: base
+---
 
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>{{ site.title }}</title>
-	<meta name="description" content="{{ page.description }}">
-	
-	<!-- Enable responsive layouts; tell browsers not to shrink pages to fit small screens -->
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+{% include header.html type="page" %}
 
-	<!-- Load styles -->
-	<!-- For production, combine all of the stylesheets -->
-	<link rel="stylesheet" href="{{ site.baseurl }}/css/sitewide.css">
-	
-	<!-- pull in webfonts -->
-	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
-
-</head>
-<body>
-
-	<!-- Page content goes inside the container -->
-	<!-- In general, you should have only one container per page. -->
-<div class="container">
-
-<div class="title">
-Jessica's Blog
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      {{ content }}
+	    {% if page.comments %}
+        <div class="disqus-comments">
+	        {% include disqus.html %}
+        </div>
+	    {% endif %}
+    </div>
+  </div>
 </div>
-
-<div class="paragraph">
-        {% for post in site.posts %}
-        	<article>
-        		<h2><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
-        		<p>{{ post.date | date: "%A, %B %-d, %Y" }}</p>
-        		{{ post.teaser }}        
-        	</article>
-        {% endfor %}
-
-
-	</div><!-- end container -->
-	
-</body>
-</html>
