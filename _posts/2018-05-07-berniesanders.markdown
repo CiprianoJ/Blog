@@ -1,5 +1,5 @@
 ---
-Bernie Sanders
+title: Bernie Sanders
 ---
 
 An interesting article on Bernie Sander's building a digital media empire. 
