@@ -5,4 +5,4 @@ Yes! Photo
 This photo is one that I really like because there is an emphasis on the word "Yes!" There is contrast between the word and the background and the colors come together nicely. This has the perfect mix of unity and chaos. I say this because the pattern for the word is one and it's connected together like an octopus. The background is completely different, but it's the ocean- where an octopus belongs. The sharp contrast between the colors gives emphasis to the word and makes it a little harsh, but it comes together nicely. 
 I took this photo during a trip to New York and my reason for capturing was because the colors stood out. 
 
-![Image of Octopus](https://ciprianoj.github.com/img/octopus.jpg)
+![Image of Octopus](https://octodex.github.com/images/octopus.jpg)
