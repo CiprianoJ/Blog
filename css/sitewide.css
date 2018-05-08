@@ -46,6 +46,10 @@ body {
 	max-width: 1200px;
 	padding: 2em;
 
+.h1{
+	font-family: 'Fjalla One', sans-serif;
+}
+	
 .nav{
        margin: 0;
        padding: 0;
