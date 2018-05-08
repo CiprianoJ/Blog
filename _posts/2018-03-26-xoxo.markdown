@@ -1,5 +1,5 @@
 ---
-XOXO Fest
+title: XOXO Fest
 ---
 An interesting artist convetion
 [this is xoxo](https://xoxofest.com/)
