@@ -1,5 +1,5 @@
 ---
-Childish Gambino
+title: Childish Gambino
 ---
 
 I'm huge fan of Childish Gambino and recenly he released his song *This is America*. 
