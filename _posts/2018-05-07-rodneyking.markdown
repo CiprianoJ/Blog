@@ -1,5 +1,5 @@
 ---
-Rodney King
+title: Rodney King
 ---
 The other day I saw a great documentary on the Rodney King riots called *LA 92*. What made it so great was that it was entirely comprised of
 actual footage. It showed the raw emotion during the riots, what was happening before Rodney King was beaten, and the aftermath.
