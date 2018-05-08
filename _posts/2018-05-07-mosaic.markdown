@@ -1,5 +1,5 @@
 ---
-Mosaic
+title: Mosaic
 ---
 It's been 25 years! The first real web browser was created in 1933 and it opened up the internet to a lot of people. 
 [How Web Browsers Have Changed 25 Years After The Introduction Of Mosaic](https://www.npr.org/2018/04/24/605401427/how-web-browsers-have-changed-25-years-after-the-introduction-of-mosaic)
