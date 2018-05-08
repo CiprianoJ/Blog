@@ -1,5 +1,5 @@
 ---
-Title: "Hello"
+title: hello
 ---
 Welcome to my blog!
 
